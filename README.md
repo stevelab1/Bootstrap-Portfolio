@@ -1,30 +1,14 @@
-# Unit 3 Challenge: Code Bootstrap Portfolio
+# A Bootstrap 4 Portfolio Template
 
 ## Overview
 
-In this assignment, you'll be building your portfolio layout using the Bootstrap CSS Framework.
+This project is based on an assignment to build a portfolio layout using the Bootstrap 4 CSS Framework. This would be for a portfolio to market your skills as a frontend developer prior to learning javascript and JS frameworks such as React.
 
-## Before You Begin
+We will also adapt Bootstrap 4 HTML/CSS to tailor the template.
 
-* You've learned a ton of material: HTML, CSS, GitHub, GitHub Pages, and Bootstrap. If you feel like you're falling behind, there's no need to panic. You'll have plenty of time to digest and master this material.
+## Question
 
-* We're diving into JavaScript next unit, and HTML/CSS will start receiving less focus. Still, you'll find that a basic knowledge of HTML/CSS will help you understand JavaScript, especially when we use it to manipulate web pages.
-
-## Commits
-
-* Having an active and healthy commit history on GitHub is important for your future job search. It is also extremely important for making sure your work is saved in your repository. If something breaks, committing often ensures you are able to go back to a working version of your code.
-
-* Committing often is a signal to employers that you are actively working on your code and learning.
-
-  * We use the mantra “commit early and often.”  This means that when you write code that works, add it and commit it!
-
-  * Numerous commits allow you to see how your app is progressing and give you a point to revert to if anything goes wrong.
-
-* Be clear and descriptive in your commit messaging.
-
-  * When writing a commit message, avoid vague messages like "fixed." Be descriptive so that you and anyone else looking at your repository knows what happened with each commit.
-
-* We would like you to have well over 200 commits by graduation, so commit early and often!
+Would you use Bootstrap or CSS Grid, or opt for a build that uses more JS or perhaps a JS framework for the portfolio, or would you like to keep it simple and link to more complex or advanced projects?
 
 ## Instructions
 
@@ -151,6 +135,3 @@ You are required to submit BOTH of the following for review:
 
 ---
 
-## Copyright
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
