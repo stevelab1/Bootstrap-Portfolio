@@ -12,21 +12,7 @@ Would you use Bootstrap or CSS Grid, or opt for a build that uses more JS or per
 
 ## Instructions
 
-1. Create a new GitHub repositories and name it `Bootstrap-Portfolio`.
 
-2. Clone this repository to your computer.
-
-3. Inside your `Bootstrap-Portfolio` repo, create the folder structure for the webpage.
-   
-   - Create a folder structure.
-
-     - Create a `index.html`.
-
-     - Create a `css` folder.
-
-       - Inside create a `style.css` file.
-
-   - Create an `images` folder.
 
        - Place all your images in this folder.
 
