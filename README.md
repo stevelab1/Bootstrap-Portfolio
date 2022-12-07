@@ -6,118 +6,70 @@ This project is based on an assignment to build a portfolio layout using the Boo
 
 We will also adapt Bootstrap 4 HTML/CSS to tailor the template.
 
-## Question
-
-Would you use Bootstrap or CSS Grid, or opt for a build that uses more JS or perhaps a JS framework for the portfolio, or would you like to keep it simple and link to more complex or advanced projects?
-
 ## Instructions
-
-
-
-       - Place all your images in this folder.
 
 4. Using Bootstrap, recreate your portfolio site with the following items:
 
    The website should include the following bootstrap components:
 
-    - A Navigation bar
-    
-    - A navigation menu at the top. Feel free to use bootstrap's navbar or create your own.
+   - A Navigation bar
 
-      - Include links that are applicable to your portfolio.
-  
-        - Links should navigate to the appropriate sections 
+   - A navigation menu at the top. Feel free to use bootstrap's navbar or create your own.
 
-    - A hero section
+     - Include links that are applicable to your portfolio.
 
-        - A jumbotron featuring your picture, your name, and any other information you'd like to include.
+       - Links should navigate to the appropriate sections
 
-    - A work section
+   - A hero section
 
-      - A section displaying your work in grid. 
+     - A jumbotron featuring your picture, your name, and any other information you'd like to include.
 
-        - If you need to use placeholder image use: https://placehold.co/ 
+   - A work section
 
-      - Use bootstrap cards for each project.
+     - A section displaying your work in grid.
 
-        - The description should give a brief overview of the work.
+       - If you need to use placeholder image use: https://placehold.co/
 
-      - Each project will eventually link to your class project work!
+     - Use bootstrap cards for each project.
 
-    - A skills section
+       - The description should give a brief overview of the work.
 
-      - List out the skills you expect to learn from the bootcamp.
+     - Each project will eventually link to your class project work!
 
-    - An about / contact section.
+   - A skills section
 
-      - An "About Me" section in the same row.
-    
-    - A footer section.
+     - List out the skills you expect to learn from the bootcamp.
 
-      - All hyperlinks should have a hover effect.
+   - An about / contact section.
 
-      - All buttons should display a box shadow upon hover.
+     - An "About Me" section in the same row.
 
-5. Your Bootstrap solution should minimize use of media queries.
+   - Footer section.
 
-6. Deploy your new Bootstrap-powered portfolio to GitHub Pages.
+     - All hyperlinks should have a hover effect.
 
-## Helpful Resources
+     - All buttons should display a box shadow upon hover.
 
-- [Bootstrap Documentation](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+## Screenshot
 
-- [Responsive Web Design - How to Create Media Queries](https://www.youtube.com/watch?v=5xzaGSYd7jM)
+![Screenshot of code quiz.](./assets/Screenshot.png)
 
-- [Media Queries 101 by CSS Tricks](https://css-tricks.com/css-media-queries/)
+## Deployment
 
-- [Media Query Documentation](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+Application deployed at:
+https://stevelab1.github.io/
 
-- [Github Pages Guide](https://pages.github.com/)
+GitHub URL:
+https://github.com/stevelab1/
 
-  - Choose "Project Site" and "Start from Scratch" to get correct instructions.
+## License
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Grading Requirements
+## Credits
 
-This homework is graded based on the following criteria: 
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository contains application code.
-
-### Application Quality: 15%
-
-* Application resembles the functionality of their previous portfolio.
-
-### Repository Quality: 12%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme with description, screenshot, link to deployed application.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+edX
+Trilogy
+Bootstrap 4
 
 ---
-
