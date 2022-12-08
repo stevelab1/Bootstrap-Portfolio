@@ -42,18 +42,12 @@ The website includes the following bootstrap components:
 
   - Each project should eventually link to a project you are proud of!
 
-- Still to add: a skills section
+- A skills section
 
-  - I will add github readme most used languages widget, or just those I know if not accurate
-  - Under frameworks/libraries I will add React etc
+  - Github readme most used languages widget, or just those I know if not accurate
+  - Under frameworks/libraries I will add React etc once I am well-versed in it
 
-- An about / contact section.
-
-- Footer section.
-
-  - All hyperlinks should have a hover effect.
-
-  - All buttons should display a box shadow upon hover.
+- About, contact and footer sections
 
 ## Screenshots
 
@@ -62,7 +56,6 @@ The website includes the following bootstrap components:
 ![Screenshot of Bootstrap-Portfolio](images/Screenshot-of-Bootstrap-Portfolio-5.png)
 
 ![Bootstrap-Portfolio in an iPhone simulator](images/Screenshot6.png)
-
 
 ## License
 
