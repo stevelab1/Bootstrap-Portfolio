@@ -1,5 +1,4 @@
 
-
 body {
   margin: 0;
   padding: 0;
@@ -18,7 +17,6 @@ nav a {
   text-decoration: underline;
   text-underline-offset: 0.4rem;
   text-decoration-thickness: 3px;
-
 }
 
 .navbar-brand {
@@ -29,10 +27,83 @@ nav a {
   text-decoration: none;
 }
 
-nav a:active, :hover {
-  color: white !important;;
+a.navbar-brand:hover { color: #2d2d2d !important;} 
+
+.navbar-nav > li > a:hover, .navbar-nav > li > a:focus {
+  color: #92cccd;
+}
+
+/* Hero */
+.hero {
+  background-size: cover;
+}
+
+.hero h2 {
+  display: flex;
+  flex-flow: row-reverse;
+  font-size: 2rem;
+  max-width: max-content;
+  margin: auto;
+  color: white;
+  background-color: #242526;
+  justify-content: flex-end;
+
+}
+
+h2 {
+  color: #455978
 }
 
 
+Work Section
 
+.work-section, .work-section-small, .contact, .skills, .about, .skills2 {
+  margin-top: 25px;
+}
+
+.card-text {
+  position: absolute;
+  z-index: 100;
+  color: #2d2d2d;
+  top: 20px;
+  background-color: #91cbcd;
+  width: max-content;
+}
+
+a {
+  color: #242526;
+  font-size: 1.2rem;
+}
+
+
+@media only screen and (max-width: 500px) {
+  .card-text {
+      top: 30px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .w-100 {
+      margin-top: 5px;
+  }
+}
+
+/* General */
+.card {
+  border: 4px solid #91cbcc;
+}
+
+.subtitle {
+  
+  font-size: 55px;
+
+}
+
+@media only screen and (max-width: 500px) {
+  .subtitle {
+      border-right: 0;
+
+      margin-bottom: 5px;
+  }
+}
 

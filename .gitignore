@@ -2,10 +2,11 @@
 images/*
 
 # exception to the rule
-!images/02-portfolio-1.jpg 
+!images/02-hero-bg.jpg
+!images/dystopian_westland_by_darthmikkey_deq102n.png
+!images/desks@2x.png
 
-# exclude class files
-
+# exclude reference files
 instructions.md
 
 # ignore all files starting with . or ~
