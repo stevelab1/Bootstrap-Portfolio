@@ -58,9 +58,9 @@ The website includes the following bootstrap components:
 
 ![Screenshot of Bootstrap-Portfolio](./images/Screenshot-of-Bootstrap-Portfolio-1.png) 
 
-![Screenshot of Bootstrap-Portfolio](images/Screenshot-of-Bootstrap-Portfolio-2.png%0D) 
+![Screenshot of Bootstrap-Portfolio](images/Screenshot-of-Bootstrap-Portfolio-2.png) 
 
-![Screenshot of Bootstrap-Portfolio](images/Screenshot-of-Bootstrap-Portfolio-3.png%0D) 
+![Screenshot of Bootstrap-Portfolio](images/Screenshot-of-Bootstrap-Portfolio-3.png) 
 
 ![Screenshot of Bootstrap-Portfolio](images/Screenshot-of-Bootstrap-Portfolio-4.png) 
 
