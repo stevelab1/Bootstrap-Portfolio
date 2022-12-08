@@ -4,51 +4,46 @@
 
 This project is based on an assignment to build a portfolio layout using the Bootstrap 4 CSS Framework. This would be for a portfolio to market your skills as a frontend developer prior to learning javascript and JS frameworks such as React.
 
-We will also adapt Bootstrap 4 HTML/CSS to tailor the template.
+I also adapted Bootstrap 4 HTML/CSS to tailor the template.
 
-## Instructions
+## Items
 
-4. Using Bootstrap, recreate your portfolio site with the following items:
+The website includes the following bootstrap components:
 
-   The website should include the following bootstrap components:
+- A Navigation bar (modified)
 
-   - A Navigation bar
+- A navigation menu at the top
 
-   - A navigation menu at the top. Feel free to use bootstrap's navbar or create your own.
+  - Links navigate to the appropriate sections of the page
 
-     - Include links that are applicable to your portfolio.
+- A hero section
 
-       - Links should navigate to the appropriate sections
+  - A jumbotron that features tagline but could also feature your image, name, and any other information you'd like to include such as news or features
 
-   - A hero section
+- A work section
 
-     - A jumbotron featuring your picture, your name, and any other information you'd like to include.
+  - A section displaying your work
 
-   - A work section
+    - A main section for the project yoiu're most proud of or is most recent or relevant to your current goals
 
-     - A section displaying your work in grid.
+  - Bootstrap cards for each project.
 
-       - If you need to use placeholder image use: https://placehold.co/
+    - The description should give a brief overview of the work. Add subtitles once you haver work to display that detail the technologies used
 
-     - Use bootstrap cards for each project.
+  - Each project should eventually link to a project you are proud of!
 
-       - The description should give a brief overview of the work.
+- Still to add: a skills section
 
-     - Each project will eventually link to your class project work!
+  - I will add github readme most used languages widget, or just those I know if not accurate
+  - Under frameworks/libraries I will add React etc
 
-   - A skills section
+- An about / contact section.
 
-     - List out the skills you expect to learn from the bootcamp.
+- Footer section.
 
-   - An about / contact section.
+  - All hyperlinks should have a hover effect.
 
-     - An "About Me" section in the same row.
-
-   - Footer section.
-
-     - All hyperlinks should have a hover effect.
-
-     - All buttons should display a box shadow upon hover.
+  - All buttons should display a box shadow upon hover.
 
 ## Screenshot
 
