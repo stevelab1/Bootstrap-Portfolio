@@ -19,6 +19,22 @@ nav a {
   text-decoration-thickness: 3px;
 }
 
+footer a {
+  font-size: 1.3rem;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 0.4rem;
+  text-decoration-thickness: 3px;
+}
+
+.contact a {
+  font-size: 1.3rem;
+  color: #455978;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 0.4rem;
+  text-decoration-thickness: 3px;
+}
 .navbar-brand {
   color: #31353e;
   font-size: 3rem;
@@ -54,9 +70,6 @@ h2 {
   color: #455978
 }
 
-
-Work Section
-
 .work-section, .work-section-small, .contact, .skills, .about, .skills2 {
   margin-top: 25px;
 }
@@ -80,11 +93,12 @@ a {
   .card-text {
       top: 30px;
   }
-}
-
-@media only screen and (max-width: 500px) {
   .w-100 {
-      margin-top: 5px;
+    margin-top: 5px;
+  }
+  .subtitle {
+    border-right: 0;
+    margin-bottom: 5px;
   }
 }
 
@@ -94,16 +108,10 @@ a {
 }
 
 .subtitle {
-  
   font-size: 55px;
-
 }
 
 @media only screen and (max-width: 500px) {
-  .subtitle {
-      border-right: 0;
-
-      margin-bottom: 5px;
-  }
+  
 }
 

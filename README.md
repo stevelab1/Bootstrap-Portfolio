@@ -61,6 +61,9 @@ The website includes the following bootstrap components:
 
 ![Screenshot of Bootstrap-Portfolio](images/Screenshot-of-Bootstrap-Portfolio-5.png)
 
+![Bootstrap-Portfolio in an iPhone simulator](images/Screenshot6.png)
+
+
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
