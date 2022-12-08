@@ -5,6 +5,11 @@ images/*
 !images/02-hero-bg.jpg
 !images/dystopian_westland_by_darthmikkey_deq102n.png
 !images/desks@2x.png
+!images/Screenshot-of-Bootstrap-Portfolio-1.png 
+!images/Screenshot-of-Bootstrap-Portfolio-2.png 
+!images/Screenshot-of-Bootstrap-Portfolio-3.png 
+!images/Screenshot-of-Bootstrap-Portfolio-4.png 
+!images/Screenshot-of-Bootstrap-Portfolio-5.png
 
 # exclude reference files
 instructions.md

@@ -6,6 +6,15 @@ This project is based on an assignment to build a portfolio layout using the Boo
 
 I also adapted Bootstrap 4 HTML/CSS to tailor the template.
 
+## Deployment
+
+Application deployed at:
+https://stevelab1.github.io/Bootstrap-Portfolio/
+
+GitHub URL:
+https://github.com/stevelab1/Bootstrap-Portfolio
+
+
 ## Items
 
 The website includes the following bootstrap components:
@@ -47,15 +56,15 @@ The website includes the following bootstrap components:
 
 ## Screenshot
 
-![Screenshot of code quiz.](./assets/Screenshot.png)
+![Screenshot of Bootstrap-Portfolio](./images/Screenshot-of-Bootstrap-Portfolio-1.png) 
 
-## Deployment
+![Screenshot of Bootstrap-Portfolio](images/Screenshot-of-Bootstrap-Portfolio-2.png%0D) 
 
-Application deployed at:
-https://stevelab1.github.io/
+![Screenshot of Bootstrap-Portfolio](images/Screenshot-of-Bootstrap-Portfolio-3.png%0D) 
 
-GitHub URL:
-https://github.com/stevelab1/
+![Screenshot of Bootstrap-Portfolio](images/Screenshot-of-Bootstrap-Portfolio-4.png) 
+
+![Screenshot of Bootstrap-Portfolio](images/Screenshot-of-Bootstrap-Portfolio-5.png)
 
 ## License
 
